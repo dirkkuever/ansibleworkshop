@@ -1,0 +1,2 @@
+In diesem Ordner landen alle Playbooks aus dem Workshop
+=======================================================
