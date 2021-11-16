@@ -1,0 +1,6 @@
+---
+  - name: Hostnames
+    hosts: nodes
+    tasks:
+      - name: Get Server Hostnames
+        command: hostname
