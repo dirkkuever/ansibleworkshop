@@ -1,0 +1,4 @@
+ansible --list-hosts all
+ansible -m ping all
+ansible -m command -a "hostname" all
+ansible -a "hostname" all (command module is standard)
